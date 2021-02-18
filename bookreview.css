@@ -1,0 +1,62 @@
+
+img{
+	float: left;
+	width: 300px;
+	height: 260px;
+	padding: 0 30px 0 0;
+	float: bottom;
+
+
+}
+.rich{
+	text-align: justify;
+	font-family: verdana;
+	color: blue;
+	letter-spacing: 1px;
+	padding-bottom: 30px;
+	background-color: #f1f1f1;
+
+}
+.think{
+	text-align: justify;
+	font-family: verdana;
+	letter-spacing: 1px;
+	padding-bottom: 30px;
+	background-color: #f1f1f1;
+
+	
+	
+}
+.mind{
+	text-align: justify;
+	font-family: verdana;
+	letter-spacing: 1px;
+	padding-bottom: 30px;
+	background-color: #f1f1f1;
+
+	
+}
+.love{
+	text-align: justify;
+	font-family: verdana;
+	letter-spacing: 1px;
+	padding-bottom: 30px;
+	background-color: #f1f1f1;
+
+	
+}
+h1{
+	background-color: brown;
+	text-align: center;
+}
+b{
+	font-size: 20px;
+	color: red;
+}
+span {
+  float: left;
+  width: 0.7em;
+  font-size: 400%;
+  font-family: algerian, courier;
+  line-height: 80%;
+}

@@ -1,0 +1,50 @@
+ . menu{
+ 	 margin: 0;
+ 	 padding: 0;
+ 	 box-sizing: border-box;
+ }
+ p{
+ display: block;
+ margin-left: 0;
+ color: yellow;
+}
+img{
+	align-content: center;
+	margin: 0 auto;
+	text-align: center;
+}
+.head {
+	text-align: center;
+	border: red 2px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  height: 10%
+}
+ul.menu{
+	text-decoration: underline;
+	padding-top: 20px;
+	padding-inline:20px 40px;
+
+
+}
+.foot{
+	text-align: bottom;
+	align-content: center;
+	margin: 0 auto;
+    text-align: center;
+    background-color: pink;
+    width: 400%
+    color:white;
+    fornt font-family: bold;
+    padding: 10px;
+}
+h3{
+	color: skyblue;
+	text text-decoration: underline;
+	text-align:right;
+ font-size: 25px;
+ 
